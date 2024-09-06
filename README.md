@@ -8,4 +8,5 @@ Steps to reproduce the issue:
 
 Removing `android:configChanges="orientation"` from the manifest fixes the issue, as the Activity is then recreated on rotation.
 
-<video src="https://github.com/zsmb13/EdgeToEdgeVerticalGrid/raw/main/recording.mp4" controls="controls" style="max-width: 730px;"></video>
+https://github.com/user-attachments/assets/fe74130e-3026-495d-ab96-eb6b6fac4dcc
+
